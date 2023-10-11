@@ -19,7 +19,7 @@ Features that are yet to be implemented:
 # Getting Started
 ## 1.Clone the repository
 
-git clone https://github.com/ZahariaAdrian/medicare-fe.git
+git clone https://github.com/ZahariaAdrian/medicare-be.git
 
 ## 2.Install dependencies
 
