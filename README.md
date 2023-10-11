@@ -1,4 +1,5 @@
-# Doctor appointment app made using React JS and Tailwind CSS, deployed with Netlify and Render!
+# MERN Stack doctor appointment app.
+## Doctor appointment app made using React JS and Tailwind CSS, deployed with Netlify and Render!
 
 With a modern yet intuitive design, medicare represents the ultimate solution for managing your healthcare needs with ease and convenience. The application enhances the way you access and interact with healthcare services. Say goodbye to long waiting times, missed appointments, and complicated booking processes.
 
